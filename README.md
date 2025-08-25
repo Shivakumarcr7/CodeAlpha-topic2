@@ -1,4 +1,4 @@
-# CodeAlpha-topic2
+# CodeAlpha-topic1
 AI-Powered Language Translator using Python (Googletrans) 
 # 🌍 AI-Powered Language Translator  
 **CodeAlpha AI Internship – Task 2**
